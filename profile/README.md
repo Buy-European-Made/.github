@@ -1,8 +1,10 @@
-# Switch to EU-Made. Support the European Values
+# Switch to European-Made. Support the European Values
 
-### A directory of EU-made alternatives. From software and electronics to everyday products - all made in Europe
+### A directory of european-made alternatives. From software and electronics to everyday products - all made in Europe
 
 Support the European economy - https://www.buy-european-made.eu/
+
+```we are currently working on v2 for the website, we are looking to open source it as soon as possible.```
 
 <!--
 
