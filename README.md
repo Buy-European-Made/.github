@@ -2,4 +2,4 @@
 
 ### A directory of EU-made alternatives. From software and electronics to everyday products - all made in Europe
 
-Support the European economy - https://www.goeuropean.eu/
+Support the European economy - https://goeuropean.org/
