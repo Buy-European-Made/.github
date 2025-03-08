@@ -2,7 +2,7 @@
 
 ### A directory of european-made alternatives. From software and electronics to everyday products - all made in Europe
 
-Support the European economy - [https://www.goeuropean.eu/](https://www.goeuropean.eu/)
+Support the European economy - https://goeuropean.org/
 
 ```we are currently working on v2 for the website, we are looking to open source it as soon as possible.```
 
